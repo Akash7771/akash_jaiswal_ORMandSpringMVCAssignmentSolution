@@ -1,0 +1,25 @@
+
+.padding-top {
+    padding-top: 25px;
+}
+
+.bg-navbar-color {
+    color: #fff;
+    background-color: #8bc34a;
+    border-color: #8bc34a;
+
+}
+
+.navbar-heading-text{
+    color: #fff;
+}
+
+.btn-style-color {
+    color: #fff;
+    background-color: #8bc34a;
+    border-color: #8bc34a;
+}
+
+.btn: hover {
+    color: #3f9625 !important;
+}
